@@ -2,7 +2,7 @@
     
 # PV Model
 
-In this study, we developed Matlab Simulink model for simulating PV devices. You need run Bisection Search MAtlab script first. Then open the PV model with the slx extension. Run the model and double click Plot PV Curve button to get the PV Module Characteristic Curves. The model is used in the study and resulted as a research article that you can download from the link under the FAQ section.
+In this study, we developed Matlab Simulink model for simulating PV devices. You need run Bisection Search Matlab script first. Then open the PV model with the slx extension. Run the model and double click Plot PV Curve button to get the PV Module Characteristic Curves. The model is used in the study and resulted as a research article that you can download from the link under the FAQ section.
 
 
 ## FAQ
